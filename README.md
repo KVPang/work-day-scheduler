@@ -1,5 +1,8 @@
 # Work-Day-Scheduler
 
+## Description
+A calendar application which allows users to enter and save tasks, notes, or events on their web browser. 
+
 ## User Story
 ```md
 AS AN employee with a busy schedule
