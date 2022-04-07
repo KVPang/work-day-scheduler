@@ -69,10 +69,10 @@ body {
   .saveBtn i:hover {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
-    color:black;
+    color: white;
   }
 
 .saveBtn:hover {
-    background-image: linear-gradient(white, #06aed5);
+    background-image: linear-gradient(white, rgb(141, 204, 141));
 }
   
