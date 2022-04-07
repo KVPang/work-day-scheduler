@@ -32,4 +32,4 @@ THEN the saved events persist
 
 ## Links
 - >GitHub: https://github.com/KVPang/work-day-scheduler
-- >Deployed:
+- >Deployed: https://kvpang.github.io/work-day-scheduler/
