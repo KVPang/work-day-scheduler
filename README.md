@@ -28,7 +28,8 @@ THEN the saved events persist
 ```
 
 ## Mock-Up
+![photo](./images/Page(1).JPG)
 
 ## Links
-- GitHub:
-- Deployed:
+- >GitHub: https://github.com/KVPang/work-day-scheduler
+- >Deployed:
